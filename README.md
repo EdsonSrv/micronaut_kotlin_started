@@ -6,7 +6,7 @@
 - [Ejemplos seguidos](https://play.kotlinlang.org/byExample/overview)
 - Funciones 
 - Variables
-- 
+- Clases
 
 ### Micronaut
 - [Guia](https://guides.micronaut.io/)
